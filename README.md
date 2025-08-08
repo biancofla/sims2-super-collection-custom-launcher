@@ -7,7 +7,7 @@ This script creates a custom launcher app for _The Sims™ 2 - Super Collection_
 ## Requirements
 
 - macOS
-- A copy of _The Sims™ 2 - Supper Collection_[(https://apps.apple.com/en/app/the-sims-2-super-collection/id883782620?mt=12)] installed in `/Applications/The Sims 2.app`
+- A copy of [_The Sims™ 2 - Super Collection_](https://apps.apple.com/en/app/the-sims-2-super-collection/id883782620?mt=12) installed in `/Applications/The Sims 2.app`
 
 ## How to Use
 
