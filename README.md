@@ -1,13 +1,13 @@
-# The Sims™ 2 - Super Collection Custom Launcher
+# _The Sims™ 2 - Super Collection_ - Custom Launcher
 
 ## Overview
 
-This script creates a custom launcher app for [_The Sims™ 2 - Super Collection_](https://apps.apple.com/en/app/the-sims-2-super-collection/id883782620?mt=12) that allows you to run the game in different languages without changing your system language settings.
+This script creates a custom launcher app for _The Sims™ 2 - Super Collection_. The launcher allows you to start the game in a specific language without changing your system's language settings. It supports 25 different languages, including English, French, German, Spanish, and more. A complete list of supported languages is provided below.
 
 ## Requirements
 
 - macOS
-- A copy of The Sims™ 2 - Supper Collection installed in `/Applications/The Sims 2.app`
+- A copy of _The Sims™ 2 - Supper Collection_[(https://apps.apple.com/en/app/the-sims-2-super-collection/id883782620?mt=12)] installed in `/Applications/The Sims 2.app`
 
 ## How to Use
 
