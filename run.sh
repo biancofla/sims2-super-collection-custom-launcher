@@ -1,4 +1,3 @@
-# Language menu
 echo "Select language for The Sims 2:"
 echo "1)  Brazilian Portuguese"
 echo "2)  Czech"

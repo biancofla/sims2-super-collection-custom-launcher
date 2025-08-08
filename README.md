@@ -69,9 +69,8 @@ The script creates a wrapper application that launches the game with the `-l:` p
 
 ## Notes
 
-- The script will remove any existing launcher with the same name before creating a new one.
-- The launcher uses the original game's icon.
-- The game runs in x86_64 mode via Rosetta 2 on Apple Silicon Macs.
+- The launcher uses the original game's icon
+- The game runs in x86_64 mode via Rosetta 2 on Apple Silicon Macs
 
 ## Troubleshooting
 
